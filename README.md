@@ -1,4 +1,4 @@
-# tensorflow_specialization
+# Tensorflow Specialization offered by deeplearning.ai at Coursera 
 
 # 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
