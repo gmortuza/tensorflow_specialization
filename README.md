@@ -18,7 +18,7 @@
 
 ### Resources
 
- - [Week 1](1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%201/Resources/resources.md)
- - [Week 2](1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%202/Resources/resources.md)
- - [Week 3](1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%203/Resources/resources.md)
- - [Week 2](1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%204/Resources/resources.md)
+ - [Week 1](1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%201/Resources/resources.md) --> Getting started, Hello world
+ - [Week 2](1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%202/Resources/resources.md) --> Callbacks, on_epoch_end
+ - [Week 3](1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%203/Resources/resources.md) --> ConvNet, Pooling, MNIST fashion
+ - [Week 2](1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%204/Resources/resources.md) --> ImageGenerator, fit_generator, CompactImage
