@@ -1,0 +1,2 @@
+- [Image augmentation notebook](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%204%20-%20Lesson%202%20-%20Notebook%20(Cats%20v%20Dogs%20Augmentation).ipynb)
+- [keras documentation](https://keras.io/api/preprocessing/image/)
