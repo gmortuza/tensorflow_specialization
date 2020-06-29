@@ -29,9 +29,9 @@
 5. If you have a number of sequences of different lengths, how do you ensure that they are understood when fed into a neural network?
 
     - [ ] Make sure that they are all the same length using the pad_sequences method of the tokenizer
-    - [ ] Use the pad_sequences object from the tensorflow.keras.preprocessing.sequence namespace
+    - [x] Use the pad_sequences object from the tensorflow.keras.preprocessing.sequence namespace
     - [ ] Process them on the input layer of the Neural Network using the pad_sequences property
-    - [x] Specify the input layer of the Neural Network to expect different sizes with dynamic_length
+    - [ ] Specify the input layer of the Neural Network to expect different sizes with dynamic_length
 
 6. When predicting words to generate poetry, the more words predicted the more likely it will end up gibberish. Why?
 
