@@ -28,23 +28,43 @@
  
 ### Quizes
 
-  - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/Quiz.md)
-  - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202/Quiz.md)
-  - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/Quiz.md)
-  - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204/Quiz.md)
+ - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/Quiz.md)
+ - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202/Quiz.md)
+ - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/Quiz.md)
+ - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204/Quiz.md)
 
 ### Programming assignment
 
-  - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/Programming%20assignment/Excercise_1_Cats_vs_Dogs.ipynb)
-  - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202/Programming%20assignment/Excercise_2_Cats_vs_Dogs_image_augmentation.ipynb)
-  - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/Programming%20assignment/Excercise_3_Horse_vs_human_transfer_learning.ipynb)
-  - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204/Programming%20assignment/Excercise_4_multi_class_classifier.ipynb)
+ - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/Programming%20assignment/Excercise_1_Cats_vs_Dogs.ipynb)
+ - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202/Programming%20assignment/Excercise_2_Cats_vs_Dogs_image_augmentation.ipynb)
+ - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/Programming%20assignment/Excercise_3_Horse_vs_human_transfer_learning.ipynb)
+ - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204/Programming%20assignment/Excercise_4_multi_class_classifier.ipynb)
 
 ### Resources
 
-  - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/Resources/resources.md)
-  - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202/Resources/resources.md)
-  - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/Resources/resources.md)
-  - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204/Resources/resources.md)
+ - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/Resources/resources.md)
+ - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202/Resources/resources.md)
+ - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/Resources/resources.md)
+ - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204/Resources/resources.md)
 
+## [3. Natural Language Processing in TensorFlow](https://github.com/gmortuza/tensorflow_specialization/tree/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow)
 
+### Quizes
+ - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201/Quiz.md)
+ - [Week 2]()https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202/Quiz.md
+ - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203/Quiz.md)
+ - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204/Quiz.md)
+
+### Programming assignment
+
+ - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201/Programming%20assignment/Course_3_Week_1_Exercise_question.ipynb)
+ - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202/Programming%20assignment/Course_3_Week_2_Exercise_Answer.ipynb)
+ - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203/Programming%20assignment/NLP_Course_Week_3_Exercise_Question.ipynb)
+ - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204/Programming%20assignment/NLP_Week4_Exercise_Shakespeare_Question.ipynb)
+
+### Resources
+
+ - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201/Resources/resources.md) --> Tokenizer, pad sequences
+ - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202/Resources/resources.md) --> Word Embedding
+ - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203/Resources/resources.md) --> Sentiment classifier
+ - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204/Resources/resources.md) --> Poetry generator
