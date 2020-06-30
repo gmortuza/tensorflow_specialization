@@ -51,7 +51,7 @@
 
 ### Quizes
  - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201/Quiz.md)
- - [Week 2]()https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202/Quiz.md
+ - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202/Quiz.md)
  - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203/Quiz.md)
  - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204/Quiz.md)
 
