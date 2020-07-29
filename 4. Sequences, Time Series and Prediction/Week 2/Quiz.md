@@ -35,21 +35,21 @@
 
 6. If time values are in time[], series values are in series[] and we want to split the series into training and validation at time 1000, what is the correct code?
 
-    - [ ] time_train = time[split_time]
-          x_train = series[split_time]
-          time_valid = time[split_time]
+    - [ ] time_train = time[split_time] \
+          x_train = series[split_time] \
+          time_valid = time[split_time] \
           x_valid = series[split_time]
-    - [ ] time_train = time[split_time]
-          x_train = series[split_time]
-          time_valid = time[split_time:]
+    - [ ] time_train = time[split_time] \
+          x_train = series[split_time] \
+          time_valid = time[split_time:] \
           x_valid = series[split_time:]
-    - [ ] time_train = time[:split_time]
-          x_train = series[:split_time]
-          time_valid = time[split_time]
+    - [ ] time_train = time[:split_time] \
+          x_train = series[:split_time] \
+          time_valid = time[split_time] \
           x_valid = series[split_time]
-    - [x] time_train = time[:split_time]
-          x_train = series[:split_time]
-          time_valid = time[split_time:]
+    - [x] time_train = time[:split_time] \
+          x_train = series[:split_time] \
+          time_valid = time[split_time:] \
           x_valid = series[split_time:]
 
 7. If you want to inspect the learned parameters in a layer after training, what’s a good technique to use?
