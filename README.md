@@ -86,7 +86,7 @@
 
 ### Resources
 
- - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201/Resources/resources.md) --> Tokenizer, pad sequences
- - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202/Resources/resources.md) --> Word Embedding
- - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203/Resources/resources.md) --> Sentiment classifier
- - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204/Resources/resources.md) --> Poetry generator
+ - [Week 1](https://github.com/gmortuza/tensorflow_specialization/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%201/Resources/resources.md)
+ - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%202/Resources/resources.md)
+ - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%203/Resources/resources.md)
+ - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%204/Resources/resources.md)
