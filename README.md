@@ -90,3 +90,5 @@
  - [Week 2](https://github.com/gmortuza/tensorflow_specialization/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%202/Resources/resources.md)
  - [Week 3](https://github.com/gmortuza/tensorflow_specialization/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%203/Resources/resources.md)
  - [Week 4](https://github.com/gmortuza/tensorflow_specialization/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%204/Resources/resources.md)
+ 
+ ![Specialization certificate](Certificate.jpg)
